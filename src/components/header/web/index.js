@@ -15,7 +15,7 @@ function Web() {
       </div>
       <div className="web-option">
         <a href="#work">
-          Work
+          Blogs
         </a>
       </div>
       <div className="web-option">
