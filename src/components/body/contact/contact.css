@@ -9,7 +9,9 @@
 
 .section-title {
     font-size: 32px;
-    font-weight: 700
+    font-weight: 700;
+    font-family:"jost",sans;
+    letter-spacing:3px;
 }
 
 .contact-container {
