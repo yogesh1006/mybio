@@ -1,0 +1,10 @@
+.footer {
+    padding: 12px;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    align-items: center;
+    margin-top: 24px
+}

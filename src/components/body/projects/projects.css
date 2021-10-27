@@ -1,0 +1,10 @@
+.projects {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+}
+
+.project-section{
+  display:flex;
+  flex-direction:column;
+  gap:1rem;
+}

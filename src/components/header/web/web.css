@@ -1,0 +1,39 @@
+.web {
+    -webkit-flex: 1 1;
+    flex: 1 1;
+    -webkit-align-items: center;
+    align-items: center
+}
+
+.web-option {
+    font-size: 20px;
+    margin-right: 16px;
+    font-weight: 700;
+    letter-spacing:2px;
+    padding:0.5rem;
+}
+
+.web-option a {
+    text-decoration: none;
+    color: grey;
+}
+
+.web-option a:hover {
+    border-bottom-style:solid;
+    border-color:#1e96fc;
+}
+
+.option-icon,.web-option a {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center
+}
+
+.option-icon {
+    margin-right: 4px
+}
+
+.web-option:last-child {
+    margin-right: 0
+}
