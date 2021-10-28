@@ -7,7 +7,7 @@ export const SocialData = [
     {
       platform: "Linkedin",
       icon: require("../assets/icons/linkedin.png").default,
-      link: "www.linkedin.com/in/yogesh-kasliwal-8b975a129",
+      link: "https://www.linkedin.com/in/yogesh-kasliwal-8b975a129/",
     },
     {
       platform: "Twitter",
