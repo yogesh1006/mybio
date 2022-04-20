@@ -1,24 +1,6 @@
 export const ProjectData = [
   {
     id: 1,
-    title: "UShopWeShip",
-    about:
-      "An app to order shoes online so, you don't have to leave your house.",
-    tags: [
-      "ReactJs",
-      "React Context API",
-      "NodeJs",
-      "HTML5",
-      "CSS3",
-      "MongoDB",
-    ],
-    live: "http://13.126.37.93:3000/ushopweship",
-    github: "https://github.com/yogesh1006/ecommerce-frontend-v2/tree/dev",
-    image:
-      "https://res.cloudinary.com/pbu/image/upload/v1635310288/ushopweship_gizo9t.png",
-  },
-  {
-    id: 2,
     title: "CodeStream",
     about: "A video streaming app you used to watch your favourite videos.",
     tags: [
@@ -36,7 +18,7 @@ export const ProjectData = [
   },
 
   {
-    id: 3,
+    id: 2,
     title: "Frndzs",
     about:
       "An app to connect, and express yourself with your friends socially.",
@@ -48,7 +30,7 @@ export const ProjectData = [
       "https://res.cloudinary.com/pbu/image/upload/v1635334826/frndzs_tuxctx.png",
   },
   {
-    id: 4,
+    id: 3,
     title: "Brainzee",
     about: "A workout app for your brain.",
     tags: [
